@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Fitti</string>
     <string name="frage">Hallo, wie oft gehst du fitti</string>
+    <string name="frageButton">Nahrungsmittel hinzufügen</string>
+    <string name="frageNahrungsmittel">Welches Nahrungsmittel möchtest du hinzufügen?</string>
+    <string name="eiweiß">Eiweiß</string>
+    <string name="fett">Fett</string>
+    <string name="carbs">Kohlenhydrate</string>
+    <string name="save">Speichern</string>
 </resources>

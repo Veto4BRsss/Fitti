@@ -7,6 +7,9 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
+    private int input;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -16,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openActivity2(View v) {
-        Intent intent = new Intent(this,Main2Activity.class);
+        Intent intent = new Intent(this,Nahrungsmittel.class);
         startActivity(intent);
     }
 
